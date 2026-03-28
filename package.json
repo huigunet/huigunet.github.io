@@ -1,0 +1,19 @@
+{
+	"name": "codeview",
+	"version": "1.0.0",
+	"private": true,
+	"type": "module",
+	"description": "CodeView - Demo 演示展示平台",
+	"scripts": {
+		"dev": "vitepress dev",
+		"compress": "bash scripts/compress-images.sh",
+		"build": "bash scripts/compress-images.sh && vitepress build",
+		"preview": "vitepress preview"
+	},
+	"devDependencies": {
+		"@types/node": "^25.5.0",
+		"vitepress": "2.0.0-alpha.17",
+		"vue": "^3.5.31",
+		"yaml": "^2.8.3"
+	}
+}

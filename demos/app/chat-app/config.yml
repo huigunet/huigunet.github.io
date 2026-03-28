@@ -1,0 +1,11 @@
+title: TK商城刷单
+desc: 即时通讯应用，支持单聊、群聊、文件传输
+tags:
+  - Node.js
+  - WebSocket
+  - Vue
+  - 即时通讯
+repo: https://github.com/kaadon/chat-app
+versions:
+  - name: v1.0
+    latest: true

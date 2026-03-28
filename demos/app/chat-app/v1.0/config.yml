@@ -1,0 +1,16 @@
+version: v1.0
+date: 2025-02-20
+demo:
+  - platform: pc
+    url: https://chat.example.com
+    username: demo
+    password: demo123
+  - platform: agent
+    url: https://chat.example.com
+    username: demo
+    password: demo123
+screenshots:
+  - pc
+  - mobile
+  - admin
+title: 刷单模版1

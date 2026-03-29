@@ -11,7 +11,7 @@ title: TK商城刷单
 ## 版本列表
 
 <VersionTabs
-  :versions='[{"name":"v1.0","latest":true}]'
+  :versions='[{"name":"v1.0","title":"TK商城刷单","latest":true}]'
   current=""
   base-path="/demos/app/chat-app/"
 />

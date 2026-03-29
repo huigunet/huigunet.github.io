@@ -12,7 +12,7 @@ const config = info?.versions?.['v1.0'] || {}
 # {{ config.title || '刷单模版1' }}
 
 <VersionTabs
-  :versions='[{"name":"v1.0","latest":true,"title":"刷单模版1"}]'
+  :versions='[{"name":"v1.0","title":"刷单模版1","latest":true}]'
   current="v1.0"
   base-path="/demos/app/chat-app/"
 />

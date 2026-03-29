@@ -8,4 +8,5 @@ tags:
 repo: https://github.com/kaadon/chat-app
 versions:
   - name: v1.0
+    title: TK商城刷单
     latest: true
